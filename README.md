@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👋 Hi, I aam Duncan Kibet
+<!--# 👋 Hi, I am Duncan Kibet
 
 Software Engineer with a strong foundation in backend and full-stack development, 
 currently specializing in **smart contract security and auditing**.
