@@ -1,5 +1,3 @@
-
-
 <!--# 👋 Hi, I am Duncan Kibet
 
 Software Engineer with a strong foundation in backend and full-stack development, 
